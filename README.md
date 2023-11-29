@@ -1,2 +1,3 @@
 # Weather-App
-![Screenshot (187)](https://github.com/uveshAhmad/Weather-App/assets/115268659/3a79e269-fdf2-4d71-9932-4e031e7b43af)
+ 
+![appWeather](https://github.com/uveshAhmad/Weather-App/assets/115268659/4f947f38-fb35-46e1-97c5-03a79c706e22)
